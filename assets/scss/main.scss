@@ -1,0 +1,22 @@
+@import 'fonts.scss';
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+.stretched-link::after {
+  content: "";
+  @apply z-10 absolute inset-0 bg-transparent pointer-events-auto;
+}
+
+.bg-gradient-dark {
+  background-image: linear-gradient(119.7deg, #123542 10.79%, #072733 68.16%);
+}
+
+.bg-gradient-blue {
+  background: linear-gradient(158.72deg, rgba(246, 253, 255, 0.5) 3.29%, #F6FDFF 97.01%);
+}

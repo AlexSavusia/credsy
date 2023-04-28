@@ -1,0 +1,45 @@
+//@font-face {
+//  font-family: 'P22 Mackinac';
+//  src: url('../../static/fonts/p22mackinac-bold-webfont.woff2') format('woff2'),
+//  url('../../static/fonts/p22mackinac-bold-webfont.woff') format('woff');
+//  font-weight: 700;
+//  font-style: normal;
+//
+//}
+//
+//@font-face {
+//  font-family: 'P22 Mackinac';
+//  src: url('../../static/fonts/p22mackinac-medium-webfont.woff2') format('woff2'),
+//  url('../../static/fonts/p22mackinac-medium-webfont.woff') format('woff');
+//  font-weight: 500;
+//  font-style: normal;
+//}
+//
+//@font-face {
+//  font-family: 'P22 Mackinac';
+//  src: url('../../static/fonts/p22mackinac-regular-webfont.woff2') format('woff2'),
+//  url('../../static/fonts/p22mackinac-regular-webfont.woff') format('woff');
+//  font-weight: 400;
+//  font-style: normal;
+//}
+
+@font-face {
+  font-display: swap;
+  font-family: 'P22 Mackinac';
+  font-weight: 400;
+  src: url('../../static/fonts/P22Mackinac-Regular.otf') format('opentype');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'P22 Mackinac';
+  font-weight: 500;
+  src: url('../../static/fonts/P22Mackinac-Medium.otf') format('opentype');
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'P22 Mackinac';
+  font-weight: 700;
+  src: url('../../static/fonts/P22Mackinac-Bold.otf') format('opentype');
+}

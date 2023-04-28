@@ -1,0 +1,11 @@
+<svg width="24" height="24" viewBox="24 24 24 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g style="mix-blend-mode:luminosity">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 8C0 3.58173 3.58172 0 8 0H352C356.418 0 360 3.58172 360 8V428C360 432.418 356.418 436 352 436H8C3.58172 436 0 432.418 0 428L0 8Z" fill="url(#pattern0)"/>
+</g>
+<defs>
+<pattern id="pattern0" patternContentUnits="objectBoundingBox" width="0.0166667" height="0.0137615">
+<use xlink:href="#image0_1926_15995" transform="scale(0.00277778 0.00229358)"/>
+</pattern>
+<image id="image0_1926_15995" width="6" height="6" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAYAAAAGCAYAAADgzO9IAAAAAXNSR0IArs4c6QAAAD1JREFUGFdljTEOACAIA+kb+P/jyszKjIFEg8p41xaYWaqqzHN3QUTkB4FbdBKQWjiNCWuhxQtbkMxdn78Wgy4lxp8yv+wAAAAASUVORK5CYII="/>
+</defs>
+</svg>
